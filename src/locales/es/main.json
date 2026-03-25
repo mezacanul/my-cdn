@@ -1,0 +1,29 @@
+{
+  "logo": "eduardomeza",
+  "social": {
+    "github": "https://github.com/eduardomeza",
+    "linkedin": "https://www.linkedin.com/in/eduardomeza/"
+  },
+  "images": {
+    "patternRings": "/images/pattern-rings.svg"
+  },
+  "footer": {
+    "title": "Contacto",
+    "description": "Siempre estoy buscando nuevas oportunidades y colaboraciones. No dudes en contactarme.",
+    "form": {
+      "name": {
+        "label": "Nombre",
+        "error": "El nombre es requerido"
+      },
+      "email": {
+        "label": "Correo electrónico",
+        "error": "El correo electrónico es requerido"
+      },
+      "message": {
+        "label": "Mensaje",
+        "error": "El mensaje es requerido"
+      },
+      "button": "ENVIAR MENSAJE"
+    }
+  }
+}

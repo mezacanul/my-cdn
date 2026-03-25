@@ -1,0 +1,44 @@
+{
+  "siapsez": {
+    "description": "Modern web platform that is digitizing and automating the entire administrative ecosystem of the state’s public education system, from teacher management to payroll and fleet operations.",
+    "data": [
+      {
+        "img": "/images/siapsez-1.jpg",
+        "description": "Led the complete frontend turnaround of SIAPSEZ, a mission-critical internal platform for the Zacatecas Government Department of Education. Rescued a half-finished project and delivered a full redesign and rebuild using TypeScript, Next.js, and Tailwind CSS, establishing a scalable design system from the ground up."
+      },
+      {
+        "img": "/images/siapsez-2.jpg",
+        "description": "Architected and implemented the core user-facing modules, including secure authentication, dynamic navigation, payment calculation workflows, fleet administration, system configuration, and multiple internal dashboards—ensuring a consistent, professional, and highly usable experience across the entire application."
+      },
+      {
+        "img": "/images/siapsez-3.jpg",
+        "description": "Led a team of frontend developers, setting coding standards, mentoring on large-scale React/Next.js best practices, and driving architectural decisions that significantly improved performance, maintainability, and developer velocity in a complex enterprise environment."
+      },
+      {
+        "img": "/images/siapsez-4.jpg",
+        "description": "Currently in production with active development and iterative releases. The platform is already being used by government personnel, with the official statewide rollout scheduled for August 2026."
+      }
+    ]
+  },
+  "hadassa": {
+    "description": "Full-stack web application built solo to streamline appointment scheduling, staff management, and daily operations for a local beauty lash salon, delivering a modern, user-friendly tool that replaced manual processes.",
+    "data": [
+      {
+        "img": "/images/hadassa-1.jpg",
+        "description": "Designed and developed Hadassa end-to-end as a solo full-stack engineer — a production-ready web app for a lash/beauty salon using TypeScript, Next.js (App Router), Tailwind CSS, Express-style API routes in Next.js, MySQL, and Vercel for seamless CI/CD and hosting."
+      },
+      {
+        "img": "/images/hadassa-2.jpg",
+        "description": "Architected core business features including an interactive calendar for booking & managing appointments, real-time availability viewer (public-facing), appointment actions dashboard (confirm/cancel/reschedule), admin panels for personnel management, services catalog, and secure authentication system — all with clean, responsive UI/UX tailored to salon staff."
+      },
+      {
+        "img": "/images/hadassa-3.jpg",
+        "description": "Handled complete technical ownership from initial UI/UX design and wireframing, through backend architecture & database schema design (MySQL), to deployment and post-launch maintenance; delivered the entire MVP in 6 months while incorporating client feedback for iterative improvements."
+      },
+      {
+        "img": "/images/hadassa-4.jpg",
+        "description": "Live in production since completion, actively used daily by the salon team for scheduling and operations, with ongoing occasional updates and enhancements based on real-world usage — demonstrating long-term reliability and maintainability."
+      }
+    ]
+  }
+}
