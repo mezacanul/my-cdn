@@ -1,0 +1,27 @@
+{
+  "gotoHome": "Ir a Inicio",
+  "name": "Plataforma SIAPSEZ",
+  "skills": "Next.js - TypeScript - Tailwind CSS",
+  "img": "/projects/siapsez.jpg",
+  "align": "right",
+  "position": "Ingeniero Líder Frontend",
+  "description": "Plataforma web que digitaliza y automatiza el ecosistema completo y los procesos de administración para la Secretaría de Educación pública del Estado de Zacatecas",
+  "data": [
+    {
+      "img": "/projects/siapsez-1.jpg",
+      "description": "Encargado de diseñar y desarrollar el Front End de la aplicación SIAPSEZ, una plataforma digital que reúne todos los procesos dispersos y análogos del departamento de educación de Zacatecas con un enfoque central en la experiencia del usuario y la adopción fluida de nuevos módulos."
+    },
+    {
+      "img": "/projects/siapsez-2.jpg",
+      "description": "Diseñe e implemente la infraestructura central del sistema, incluyendo sistemas de navegación dinámica, funciones de utilidad global, librerías de componentes compartidos y flujos de autenticación robustos para garantizar una experiencia de usuario profesional, consistente e intuitiva en toda la suite empresarial."
+    },
+    {
+      "img": "/projects/siapsez-3.jpg",
+      "description": "Establecí y apliqué estándares técnicos de alto nivel para un equipo Front-End en un entorno TypeScript/Next.js, abarcando protocolos de documentación, guías de estilos y mejores prácticas que mejoran significativamente el rendimiento de la aplicación y su mantenibilidad a largo plazo."
+    },
+    {
+      "img": "/projects/siapsez-4.jpg",
+      "description": "Optimicé la velocidad de desarrollo en un entorno empresarial complejo mediante el liderazgo en la toma de decisiones arquitectónicas y la implementación de flujos de trabajo modulares que permiten una entrega de funciones más rápida y la reducción de deuda técnica."
+    }
+  ]
+}

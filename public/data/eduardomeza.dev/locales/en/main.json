@@ -1,11 +1,8 @@
 {
   "logo": "eduardomeza",
   "social": {
-    "github": "https://github.com/eduardomeza",
-    "linkedin": "https://www.linkedin.com/in/eduardomeza/"
-  },
-  "images": {
-    "patternRings": "/images/pattern-rings.svg"
+    "github": "https://github.com/mezacanul",
+    "linkedin": "https://www.linkedin.com/in/eduardo-meza-7b6a02194/"
   },
   "footer": {
     "title": "Contact",
@@ -23,7 +20,12 @@
         "label": "Message",
         "error": "Message is required"
       },
-      "button": "SEND MESSAGE"
+      "button": "SEND MESSAGE",
+      "success": {
+        "top": "Your message has been sent!",
+        "bottom": "I will get back to you as soon as possible."
+      },
+      "error": "An error occurred while sending the message."
     }
   }
 }

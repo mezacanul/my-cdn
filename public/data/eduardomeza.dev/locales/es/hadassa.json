@@ -1,0 +1,27 @@
+{
+  "gotoHome": "Ir a Inicio",
+  "name": "Hadassa Salón de Belleza",
+  "skills": "Next.js - TypeScript - MySQL",
+  "img": "/projects/hadassa.jpg",
+  "align": "center right",
+  "position": "Ingeniero Full-stack",
+  "description": "Aplicación Web para agilizar la programación de citas, la gestión del personal y las operaciones diarias de un salón de belleza local, brindando una herramienta moderna e intuitiva que reemplazó los procesos manuales.",
+  "data": [
+    {
+      "img": "/projects/hadassa-1.jpg",
+      "description": "Diseñada y desarrollada como único ingeniero Full-Stack: una aplicación web actualmente en producción para un salón de belleza/pestañas utilizando TypeScript, Next.js (App Router), Tailwind CSS, rutas de API estilo Express en Next.js, MySQL y Vercel para hosting y CI/CD continuo."
+    },
+    {
+      "img": "/projects/hadassa-2.jpg",
+      "description": "Desarrolle la arquitectura completa para toda la lógica del negocio, incluyendo un calendario interactivo para la reserva y gestión de citas, visor de disponibilidad en tiempo real (público), panel de acciones de citas (confirmar/cancelar/reprogramar), paneles de administración para gestión de personal, catálogo de servicios y un sistema de autenticación seguro; todo con una UI/UX limpia y responsiva adaptada al personal del salón."
+    },
+    {
+      "img": "/projects/hadassa-3.jpg",
+      "description": "Asumí la propiedad técnica total, desde el diseño inicial de UI/UX y wireframing, pasando por la arquitectura del backend y diseño del esquema de base de datos (MySQL), hasta el despliegue y mantenimiento post-lanzamiento; entregué el MVP completo en 6 meses incorporando el feedback del cliente para mejoras iterativas."
+    },
+    {
+      "img": "/projects/hadassa-4.jpg",
+      "description": "Activa en producción con más de 1 año de uso, utilizada diariamente por el equipo del salón para la administración y operaciones del salón, con actualizaciones y mejoras ocasionales basadas en el uso real, demuestra fiabilidad y mantenibilidad a largo plazo."
+    }
+  ]
+}

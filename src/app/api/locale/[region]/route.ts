@@ -1,36 +1,32 @@
-// import { translate } from "next-intl";
+import files from "@/lib/files";
 import { NextRequest, NextResponse } from "next/server";
-import cms from "@/lib/cms";
 
 export async function GET(
   request: NextRequest,
   { params }: { params: Promise<{ region: string }> }
 ) {
-  // Process Request input
-  let content: any;
+  // Retrieve Request parameters
   const { region } = await params;
   const query = request.nextUrl.searchParams;
-  const hasQueries = query.size > 0;
+  const projectId = query.get("projectId");
+  const resource = query.get("resource");
 
-  // Get Content from CMS
-  if (!hasQueries) {
-    content = await cms.getMain(region);
-  } else if (hasQueries) {
-    const path = query.get("path");
-    const projectId = query.get("projectId");
-
-    switch (path) {
-      case "home":
-        content = await cms.getHome(region);
-        break;
-      case "projects":
-        content = await cms.selectProject(
-          region,
-          projectId as string,
-        );
-        break;
-    }
+  // Validate Request parameters
+  if (!projectId || !resource) {
+    return NextResponse.json({
+      message: "Project ID and resource are required",
+      status: 400,
+    });
   }
+
+  // Get Content from Files
+  // *TODO: Setup DB and ORM to manage content
+  let content: any;
+  content = await files.getFileContent({
+    projectId,
+    region,
+    resource,
+  });
 
   // Return Content
   if (!content) {
@@ -39,5 +35,9 @@ export async function GET(
       status: 404,
     });
   }
-  return NextResponse.json(content);
+  return NextResponse.json({
+    content,
+    status: 200,
+    message: "Successfully retrieved content",
+  });
 }

@@ -1,0 +1,27 @@
+{
+  "gotoHome": "Go to Home",
+  "name": "Hadassa Beauty Salon",
+  "skills": "Next.js - TypeScript - MySQL",
+  "img": "/projects/hadassa.jpg",
+  "align": "center right",
+  "position": "Full-stack Engineer",
+  "description": "Web application built to streamline appointment scheduling, staff management, and daily operations for a local beauty salon, providing a modern, intuitive tool that replaced manual processes.",
+  "data": [
+    {
+      "img": "/projects/hadassa-1.jpg",
+      "description": "Designed and developed the application end-to-end as a solo Full-Stack Engineer, delivering a production-ready platform using TypeScript, Next.js (App Router), Tailwind CSS, Express-style API routes, MySQL, and Vercel for seamless hosting and CI/CD."
+    },
+    {
+      "img": "/projects/hadassa-2.jpg",
+      "description": "Architected the complete business logic, including an interactive calendar for booking and managing appointments, a real-time public availability viewer, and an action dashboard (confirm/cancel/reschedule), alongside admin panels for staff management and secure authentication."
+    },
+    {
+      "img": "/projects/hadassa-3.jpg",
+      "description": "Took full technical ownership of the project lifecycle, from initial UI/UX design and wireframing to backend architecture and database schema design, delivering the full MVP in 6 months while incorporating iterative client feedback."
+    },
+    {
+      "img": "/projects/hadassa-4.jpg",
+      "description": "Currently in production status for over a year, where it is used daily by the salon team for core operations, demonstrating long-term reliability and maintainability with occasional updates based on real-world usage and client requests."
+    }
+  ]
+}

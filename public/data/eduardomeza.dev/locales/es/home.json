@@ -1,0 +1,105 @@
+{
+  "hero": {
+    "title": {
+      "top": "¡Hola Mundo! </>",
+      "bottom": ["Soy ", "Eduardo Meza", "."]
+    },
+    "description": "Soy un ingeniero de software con pasión por construir aplicaciones web que sean funcionales y estéticamente agradables.",
+    "button": "CONTÁCTAME",
+    "profilePicture": "/profile.jpg"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "suffix": "años",
+    "items": [
+      { "title": "Next.js", "experience": 4 },
+      { "title": "TypeScript", "experience": 3 },
+      { "title": "React.js", "experience": 5 },
+      { "title": "Tailwind CSS", "experience": 4 },
+      { "title": "SSR/ISR", "experience": 2 },
+      { "title": "CSR/SSG", "experience": 2 },
+      { "title": "REST API", "experience": 5 },
+      { "title": "CI/CD", "experience": 3 },
+      { "title": "Node.js", "experience": 2 },
+      { "title": "Express.js", "experience": 2 },
+      { "title": "Redux", "experience": 3 },
+      { "title": "Zustand", "experience": 3 },
+      { "title": "MySQL", "experience": 5 },
+      { "title": "MongoDB", "experience": 2 },
+      { "title": "React Native", "experience": 1 },
+      { "title": "HTML", "experience": 6 },
+      { "title": "CSS", "experience": 6 },
+      { "title": "Javascript", "experience": 6 },
+      { "title": "Bootstrap", "experience": 4 }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos",
+    "buttons": {
+      "about": "ACERCA DE",
+      "gotoProject": "VER PROYECTO",
+      "gotoCode": "VER CÓDIGO"
+    },
+    "items": [
+      {
+        "id": "siapsez",
+        "name": "Plataforma SIAPSEZ",
+        "skills": "Next.js - TypeScript - Tailwind CSS",
+        "img": "/projects/siapsez.jpg",
+        "type": "about"
+      },
+      {
+        "id": "hadassa",
+        "name": "Hadassa Salón de Belleza",
+        "skills": "Next.js - TypeScript - MySQL",
+        "img": "/projects/hadassa.jpg",
+        "type": "about"
+      },
+      {
+        "id": "kux",
+        "name": "Restaurante K'UX",
+        "skills": "Next.js - TypeScript - Tailwind CSS",
+        "img": "/projects/kux.jpg",
+        "type": "preview",
+        "url": "https://dine-restaurant-chi.vercel.app/",
+        "code": "https://github.com/mezacanul/dine-restaurant"
+      },
+      {
+        "id": "photosnap",
+        "name": "Photosnap",
+        "skills": "Next.js - TypeScript - Tailwind CSS",
+        "img": "/projects/photosnap.jpg",
+        "type": "preview",
+        "url": "https://photosnap-nine.vercel.app/",
+        "code": "https://github.com/mezacanul/photosnap"
+      },
+      {
+        "id": "sunnyside",
+        "name": "Sunnyside",
+        "skills": "Next.js - TypeScript - Tailwind CSS",
+        "img": "/projects/sunnyside.jpg",
+        "type": "preview",
+        "url": "https://sunnyside-five-hazel.vercel.app/",
+        "code": "https://github.com/mezacanul/sunnyside"
+      },
+      {
+        "id": "sneakers-checkout",
+        "name": "Sneakers Checkout",
+        "skills": "Next.js - TypeScript - Tailwind CSS",
+        "img": "/projects/sneakers-checkout.jpg",
+        "type": "preview",
+        "url": "https://sneakers-gamma-six.vercel.app/",
+        "code": "https://github.com/mezacanul/sneakers"
+      },
+      {
+        "id": "creative",
+        "name": "Creative Agency",
+        "skills": "Next.js - TypeScript - Tailwind CSS",
+        "img": "/projects/creative-agency.jpg",
+        "type": "preview",
+        "url": "https://creative-mu-flax.vercel.app/",
+        "code": "https://github.com/mezacanul/creative-agency"
+      }
+    ]
+  }
+}

@@ -1,19 +1,29 @@
 import path from "path";
 import fs from "fs/promises";
 
-async function getFileContent(
-  region: string,
-  fileName: string
-) {
-  const filePath = path.join(
+interface RequestParams {
+  projectId: string;
+  region: string;
+  resource: string;
+}
+
+async function getFileContent({
+  projectId,
+  region,
+  resource,
+}: RequestParams) {
+  const fileName = `${resource}.json`;
+  const folderPath = path.join(
     process.cwd(),
-    "src",
+    "public",
+    "data",
+    projectId,
     "locales",
     region
   );
-  const fullPath = path.join(filePath, fileName);
+  const fullPath = path.join(folderPath, fileName);
   const fileContent = await fs.readFile(fullPath, "utf8");
-  console.log(fileContent);
+  // console.log(fileContent);
   return JSON.parse(fileContent);
 }
 
