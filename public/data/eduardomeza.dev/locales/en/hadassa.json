@@ -23,5 +23,19 @@
       "img": "/projects/hadassa-4.jpg",
       "description": "Currently in production status for over a year, where it is used daily by the salon team for core operations, demonstrating long-term reliability and maintainability with occasional updates based on real-world usage and client requests."
     }
-  ]
+  ],
+  "metadata": {
+    "title": "Eduardo Meza | Projects",
+    "excerpt": "Software engineer specialized in developing web applications using Next.js, TypeScript and Node.js.",
+    "image_path": "/og.jpg",
+    "slug": "projects",
+    "tags": [
+      "Web Development",
+      "Next.js",
+      "TypeScript",
+      "Software Architecture"
+    ],
+    "publishedAt": "2026-03-01T10:00:00Z",
+    "updatedAt": "2026-03-01T10:00:00Z"
+  }
 }

@@ -23,5 +23,19 @@
       "img": "/projects/siapsez-4.jpg",
       "description": "Optimicé la velocidad de desarrollo en un entorno empresarial complejo mediante el liderazgo en la toma de decisiones arquitectónicas y la implementación de flujos de trabajo modulares que permiten una entrega de funciones más rápida y la reducción de deuda técnica."
     }
-  ]
+  ],
+  "metadata": {
+    "title": "Eduardo Meza | Proyectos",
+    "excerpt": "Ingeniero de software especializado en el desarrollo de aplicaciones web utilizando Next.js, TypeScript y Node.js.",
+    "image_path": "/og.jpg",
+    "slug": "proyectos",
+    "tags": [
+      "Desarrollo Web",
+      "Next.js",
+      "TypeScript",
+      "Arquitectura de Software"
+    ],
+    "publishedAt": "2026-03-01T10:00:00Z",
+    "updatedAt": "2026-03-01T10:00:00Z"
+  }
 }

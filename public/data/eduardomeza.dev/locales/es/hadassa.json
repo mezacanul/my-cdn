@@ -23,5 +23,19 @@
       "img": "/projects/hadassa-4.jpg",
       "description": "Activa en producción con más de 1 año de uso, utilizada diariamente por el equipo del salón para la administración y operaciones del salón, con actualizaciones y mejoras ocasionales basadas en el uso real, demuestra fiabilidad y mantenibilidad a largo plazo."
     }
-  ]
+  ],
+  "metadata": {
+    "title": "Eduardo Meza | Proyectos",
+    "excerpt": "Ingeniero de software especializado en el desarrollo de aplicaciones web utilizando Next.js, TypeScript y Node.js.",
+    "image_path": "/og.jpg",
+    "slug": "proyectos",
+    "tags": [
+      "Desarrollo Web",
+      "Next.js",
+      "TypeScript",
+      "Arquitectura de Software"
+    ],
+    "publishedAt": "2026-03-01T10:00:00Z",
+    "updatedAt": "2026-03-01T10:00:00Z"
+  }
 }

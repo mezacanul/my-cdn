@@ -101,5 +101,19 @@
         "code": "https://github.com/mezacanul/creative-agency"
       }
     ]
+  },
+  "metadata": {
+    "title": "Eduardo Meza | Full Stack Developer",
+    "excerpt": "Software engineer specialized in developing web applications using Next.js, TypeScript and Node.js.",
+    "image_path": "/og.jpg",
+    "slug": "full-stack-developer",
+    "tags": [
+      "Web Development",
+      "Next.js",
+      "TypeScript",
+      "Software Architecture"
+    ],
+    "publishedAt": "2026-03-01T10:00:00Z",
+    "updatedAt": "2026-03-01T10:00:00Z"
   }
 }
