@@ -17,9 +17,18 @@ export async function POST(request: NextRequest) {
   });
   console.log(response);
 
-  return NextResponse.json({
-    message: "Email sent",
-    status: 200,
-    body,
-  });
+  const { error, data } = response;
+  if (!error && data) {
+    return NextResponse.json({
+      message: "Email sent",
+      status: 200,
+      body,
+    });
+  } else {
+    return NextResponse.json({
+      message: "Email not sent",
+      status: 400,
+      body,
+    });
+  }
 }
