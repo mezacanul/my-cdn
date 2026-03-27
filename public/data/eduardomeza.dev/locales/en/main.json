@@ -10,15 +10,15 @@
     "form": {
       "name": {
         "label": "Name",
-        "error": "Name is required"
+        "error": "Invalid name"
       },
       "email": {
         "label": "Email",
-        "error": "Email is required"
+        "error": "Invalid email"
       },
       "message": {
         "label": "Message",
-        "error": "Message is required"
+        "error": "The message must be at least 10 characters long"
       },
       "button": "SEND MESSAGE",
       "success": {

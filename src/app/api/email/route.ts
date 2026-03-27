@@ -1,9 +1,21 @@
+import { sendEmail } from "@/app/actions/email";
 import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(request: NextRequest) {
   const body = await request.json();
+  const { name, email, message } = body;
 
-  await new Promise((resolve) => setTimeout(resolve, 1000));
+  const subject = `New Message from ${name}`;
+  const messageBody = `Reply to: ${email}\n\nMessage: ${message}`;
+  const to = email;
+
+  // await new Promise((resolve) => setTimeout(resolve, 1000));
+  const response = await sendEmail({
+    subject: subject,
+    message: messageBody,
+    to: email,
+  });
+  console.log(response);
 
   return NextResponse.json({
     message: "Email sent",

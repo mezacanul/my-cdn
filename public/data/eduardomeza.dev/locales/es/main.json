@@ -10,15 +10,15 @@
     "form": {
       "name": {
         "label": "Nombre",
-        "error": "El nombre es requerido"
+        "error": "Nombre inválido"
       },
       "email": {
         "label": "Correo electrónico",
-        "error": "El correo electrónico es requerido"
+        "error": "Correo electrónico inválido"
       },
       "message": {
         "label": "Mensaje",
-        "error": "El mensaje es requerido"
+        "error": "El mensaje debe tener al menos 10 caracteres"
       },
       "button": "ENVIAR MENSAJE",
       "success": {

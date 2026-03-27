@@ -28,7 +28,7 @@ export async function GET(
     resource,
   });
 
-  // Return Content
+  // Return Content (conditional response)
   if (!content) {
     return NextResponse.json({
       message: "Content not found",
