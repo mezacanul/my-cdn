@@ -1,0 +1,6 @@
+{
+  "from_prefix": "contacto",
+  "response": "Hola {name}! \n\nGracias por tu mensaje!\nMe alegra mucho escuchar de ti y que te ha gustado mi trabajo. Revisaré tu mensaje y te responderé lo antes posible!",
+  "feedback": "Tu mensaje:\n{message}",
+  "footer": "Saludos cordiales, \nEduardo Meza"
+}

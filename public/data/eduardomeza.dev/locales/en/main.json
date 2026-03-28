@@ -10,11 +10,15 @@
     "form": {
       "name": {
         "label": "Name",
-        "error": "Invalid name"
+        "error": "Name is required"
       },
       "email": {
         "label": "Email",
-        "error": "Invalid email"
+        "error": "Invalid email format"
+      },
+      "subject": {
+        "label": "Subject",
+        "error": "Subject is required"
       },
       "message": {
         "label": "Message",

@@ -10,11 +10,15 @@
     "form": {
       "name": {
         "label": "Nombre",
-        "error": "Nombre inválido"
+        "error": "Nombre es requerido"
       },
       "email": {
         "label": "Correo electrónico",
-        "error": "Correo electrónico inválido"
+        "error": "Formato de correo inválido"
+      },
+      "subject": {
+        "label": "Asunto",
+        "error": "Asunto es requerido"
       },
       "message": {
         "label": "Mensaje",
