@@ -14,7 +14,7 @@ export async function POST(request: NextRequest) {
     subject: `Hola ${name}!`,
     message:
       "Gracias por tu mensaje. Me pondré en contacto contigo lo antes posible.",
-    to: clientEmail,
+    sendTo: clientEmail,
   });
   console.log(clientResponse);
 
@@ -22,7 +22,7 @@ export async function POST(request: NextRequest) {
   const response = await sendEmail({
     subject: subject,
     message: messageBody,
-    to: EMAIL_TO as string,
+    sendTo: EMAIL_TO as string,
   });
   console.log(response);
 
