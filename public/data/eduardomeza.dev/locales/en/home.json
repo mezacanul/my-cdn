@@ -4,7 +4,7 @@
       "top": "Nice to meet you!",
       "bottom": ["I'm ", "Eduardo Meza", "."]
     },
-    "description": "I'm a software engineer with a passion for building web applications that are both functional and aesthetically pleasing.",
+    "description": "Software engineer with a great passion for building web applications with clean architecture and modern technologies. I always enjoy the process of learning and building new projects.",
     "button": "CONTACT ME",
     "profilePicture": "/profile.jpg"
   },
@@ -104,7 +104,7 @@
   },
   "metadata": {
     "title": "Eduardo Meza | Full Stack Developer",
-    "excerpt": "Software engineer specialized in developing web applications using Next.js, TypeScript and Node.js.",
+    "excerpt": "Software engineer specialized in developing web applications with Next.js, TypeScript and Node.js.",
     "image_path": "/og-en.jpg",
     "slug": "full-stack-developer",
     "tags": [
