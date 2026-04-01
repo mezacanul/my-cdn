@@ -84,8 +84,8 @@
         "skills": "React - TypeScript - Tailwind CSS - Redux",
         "img": "/projects/kux.jpg",
         "type": "preview",
-        "url": "https://dine-restaurant-chi.vercel.app/",
-        "code": "https://github.com/mezacanul/dine-restaurant"
+        "url": "https://kux-pi.vercel.app/",
+        "code": "https://github.com/mezacanul/kux"
       },
       {
         "id": "photosnap",
