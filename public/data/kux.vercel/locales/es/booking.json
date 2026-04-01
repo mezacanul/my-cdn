@@ -1,0 +1,28 @@
+{
+  "title": "Reservaciones",
+  "description": "Estamos listos para recibirte. Si tienes alguna solicitud especial, por favor no dudes en contactarnos al número de teléfono que te proporcionamos abajo. Estaremos encantados de atenderte.",
+  "btn": "AGENDAR RESERVACIÓN",
+  "success": {
+    "title": "¡Reservación agendada con éxito!",
+    "description": "Nos pondremos en contacto contigo pronto para confirmar tu reservación."
+  },
+  "form": {
+    "name": {
+      "placeholder": "Nombre",
+      "invalid": "Por favor, ingrese un nombre válido"
+    },
+    "email": {
+      "placeholder": "Correo electrónico",
+      "invalid": "Por favor, ingrese un correo electrónico válido"
+    },
+    "date": {
+      "title": "Seleccionar fecha",
+      "invalid": "Por favor, selecciona una fecha válida"
+    },
+    "time": {
+      "title": "Seleccionar hora",
+      "invalid": "Por favor, selecciona una hora válida"
+    },
+    "guests": "Invitados"
+  }
+}

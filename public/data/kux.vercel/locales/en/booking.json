@@ -1,0 +1,22 @@
+{
+  "title": "Reservations",
+  "description": "We can't wait to host you. If you have any special requirements please feel free to call on the phone number below. We'll be happy to accommodate you.",
+  "btn": "BOOK A TABLE",
+  "success": {
+    "title": "Booking successful!",
+    "description": "We'll be in touch soon to confirm your booking."
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "date": {
+      "title": "Pick a date",
+      "invalid": "Please select a valid date"
+    },
+    "time": {
+      "title": "Pick a time",
+      "invalid": "Please select a valid time"
+    },
+    "guests": "Guests"
+  }
+}

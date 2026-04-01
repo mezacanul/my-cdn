@@ -1,0 +1,13 @@
+{
+  "title": "K'UX",
+  "footer": {
+    "location": "KM 15 Carretera a Dzityá",
+    "country": "Yucatán, México",
+    "phone": "+52 999 123 4567",
+    "times": {
+      "title": "Horarios",
+      "weekly": "Lun - Vie: 09:00 AM - 10:00 PM",
+      "weekend": "Sab - Dom: 09:00 AM - 04:00 PM"
+    }
+  }
+}

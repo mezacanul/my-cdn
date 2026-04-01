@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "title": "Sabor exquisito desde 1989",
+    "description": "Disfruta nuestro menú de temporada en un entorno natural y acogedor. Deleita tu paladar con el producto más fresco de nuestra cocina.",
+    "btn": "RESERVACIONES"
+  },
+  "presentation": [
+    {
+      "title": "Para disfrutar con toda la familia",
+      "description": "Nuestros fantasticos alrededores hacen de la comida una experiencia inolvidable para todos. Agenda una visita a nuestro jardín antes de tu comida."
+    },
+    {
+      "title": "Nuestros ingredientes más frescos",
+      "description": "Todos nuestros ingredientes provienen directamente de nuestra granja y pesquería local. Así puedes estar seguro de que estás saboreando los ingredientes más frescos."
+    }
+  ],
+  "highlights": {
+    "title": "Algunos de nuestros platillos favoritos",
+    "description": "Caterizamos para todas las necesidades alimentarias, pero aquí tienes una vista de algunos de los favoritos de nuestros comensales. Nuestro menú se actualiza cada temporada.",
+    "items": [
+      {
+        "title": "Salmón a la plancha",
+        "description": "Nuestro salmón local servido con una ensalada de trigo de verano refrescante."
+      },
+      {
+        "title": "Filete de ternera con filetes de pollo",
+        "description": "Nuestro filete de ternera servido a tu gusto con una elección de platos de temporada."
+      },
+      {
+        "title": "Mousse de chocolate con frutas de verano",
+        "description": "Mousse de chocolate combinada con frutas de verano y trozos de chocolate oscuro."
+      }
+    ]
+  },
+  "booking": {
+    "btn": "RESERVACIONES",
+    "options": [
+      {
+        "title": "Reuniones Familiares",
+        "description": "Nos encanta atender a toda la familia. Te invitamos a traer a todos para una comida especial con tus seres queridos. Nosotros te ofreceremos una experiencia inolvidable para cada uno de ellos."
+      },
+      {
+        "title": "Eventos Especiales",
+        "description": "Ya sea una cena romántica o un evento especial que desees celebrar, nosotros nos encargaremos de todo. Nos aseguraremos de que tu evento especial genere un recuerdo con sabores inolvidables."
+      },
+      {
+        "title": "Eventos Sociales",
+        "description": "¿Estás buscando el lugar perfecto para un gran evento social? No hay problema! Nos encanta atender a grandes grupos. Nosotros te ayudaremos a hacer que tu evento sea un éxito para todos."
+      }
+    ]
+  },
+  "reservations": {
+    "title": "¿Listo para conocernos?",
+    "btn": "RESERVACIONES"
+  }
+}
