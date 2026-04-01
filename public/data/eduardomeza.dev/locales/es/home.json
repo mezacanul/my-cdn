@@ -8,6 +8,29 @@
     "button": "CONTÁCTAME",
     "profilePicture": "/profile.jpg"
   },
+  "about": {
+    "title": "Acerca de mí",
+    "content": [
+      {
+        "image": "/chiapas-flight.jpg",
+        "text": [
+          "Mi carrera comenzó en el año 2019, cuando entré a trabajar a una empresa en la que me ofrecieron la oportunidad de aprender a desarrollar software con HTML, CSS, Javascript y Python. Esta experiencia me sirvió muchísimo para aprender cómo funciona un ecosistema empresarial en el área de programación.",
+          "En el año 2021 fui contratado por una empresa norteamericana en la cual pude expandir mis conocimientos al desarrollar múltiples plantillas de Front End con Bootstrap, luego Tailwind, Angular y eventualmente React. Al ir creciendo en la empresa, comencé a trabajar con tecnologías más modernas cómo Next.js, Typescript y conforme las necesidades de nuestro equipo fueron creciendo me adentre al mundo del Backend con el diseño de un CMS escrito con Next.js/Express.js y MySQL.",
+          "A partir del año 2024 comencé a trabajar de forma más independiente y comencé a realizar proyectos en solo así cómo también colaborar en aplicaciones del sector público. Desde entonces trabajo con Next.js diseñando desde la interfaz, pasando por el backend e implementando bases de datos en aplicaciones que se siguen utilizando hoy en día."
+        ]
+      },
+      {
+        "image": "/snowboard.jpg",
+        "text": [
+          "Siempre he disfrutado viajar, es una de las experiencias que más me llenan de vida, al igual que los deportes extremos cómo bicicleta de montaña, motos acuáticas y el snowboarding. Entre los lugares que he visitado en México se encuentran Cancún, Chiapas, Tulum, Playa del Carmen, Ciudad de México, Monterrey, Guadalajara y Puebla. En el año 2024 tuve la oportunidad de viajar a Canadá para practicar Snowboarding en una sede olímpica, una experiencia que deseo repetir siempre que tenga la oportunidad.",
+          "Disfruto mucho de ir a la playa, tomar fotografías y crear música. Actualmente cuento con un estudio musical propio para ensayo en el que suelo pasar tiempo cuando encuentro la inspiración correcta. Eventualmente quiero publicar mi primer álbum, el cual aún está en proceso creativo con miras a concluir mi primera colección de canciones a mediados del año 2027.",
+          "Entre mis temas de conversación favoritos está la filosofía en el puesto número uno, los avances tecnológicos, sus aplicaciones e implicaciones en el mundo tanto en la sociedad humana cómo en la naturaleza, las historias en donde se mezclan la fantasía y la ciencia ficción, y la historia del mundo."
+        ]
+      }
+    ],
+    "button": "Descargar CV",
+    "urlToCV": "/pdf/Eduardo_Meza_CV_ES.pdf"
+  },
   "skills": {
     "title": "Habilidades",
     "suffix": "años",
