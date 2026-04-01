@@ -2,16 +2,31 @@
   "hero": {
     "title": "Exquisite dining since 1989",
     "description": "Experience our seasonal menu in beautiful country surroundings. Eat the freshest produce from the comfort of our farmhouse.",
+    "bg_images": {
+      "desktop": "hero-bg-desktop@2x.jpg",
+      "tablet": "hero-bg-tablet@2x.jpg",
+      "mobile": "hero-bg-mobile@2x.jpg"
+    },
     "btn": "BOOK A TABLE"
   },
   "presentation": [
     {
       "title": "Enjoyable place for all the family",
-      "description": "Our fantastic surroundings make dining with us a great experience for everyone. We can even arrange a tour of the garden before your meal."
+      "description": "Our fantastic surroundings make dining with us a great experience for everyone. We can even arrange a tour of the garden before your meal.",
+      "bg_images": {
+        "desktop": "enjoyable-place-desktop@2x.jpg",
+        "tablet": "enjoyable-place-tablet@2x.jpg",
+        "mobile": "enjoyable-place-mobile@2x.jpg"
+      }
     },
     {
       "title": "The most locally sourced food",
-      "description": "All our ingredients come directly from our farm or local fishery. So you can be sure that you're eating the freshest, most sustainable food."
+      "description": "All our ingredients come directly from our farm or local fishery. So you can be sure that you're eating the freshest, most sustainable food.",
+      "bg_images": {
+        "desktop": "locally-sourced-desktop@2x.jpg",
+        "tablet": "locally-sourced-tablet@2x.jpg",
+        "mobile": "locally-sourced-mobile@2x.jpg"
+      }
     }
   ],
   "highlights": {
@@ -20,15 +35,18 @@
     "items": [
       {
         "title": "Seared Salmon Fillet",
-        "description": "Our locally sourced salmon served with a refreshing buckwheat summer salad."
+        "description": "Our locally sourced salmon served with a refreshing buckwheat summer salad.",
+        "image": "salmon-mobile@2x.jpg"
       },
       {
         "title": "Rosemary Filet Mignon",
-        "description": "Our prime beef served to your taste with a delicious choice of seasonal sides."
+        "description": "Our prime beef served to your taste with a delicious choice of seasonal sides.",
+        "image": "beef-mobile@2x.jpg"
       },
       {
         "title": "Summer Fruit Chocolate Mousse",
-        "description": "Creamy mousse combined with summer fruits and dark chocolate shavings."
+        "description": "Creamy mousse combined with summer fruits and dark chocolate shavings.",
+        "image": "chocolate-mobile@2x.jpg"
       }
     ]
   },
@@ -37,20 +55,24 @@
     "options": [
       {
         "title": "Family Gathering",
-        "description": "We love catering for entire families. So please bring everyone along for a special meal with your loved ones. We'll provide a memorable experience for all."
+        "description": "We love catering for entire families. So please bring everyone along for a special meal with your loved ones. We'll provide a memorable experience for all.",
+        "image": "family-gathering-desktop@2x.jpg"
       },
       {
         "title": "Special Events",
-        "description": "Whether it's a romantic dinner or special date you're celebrating with others we'll look after you. We'll be sure to mark your special date with an unforgettable meal."
+        "description": "Whether it's a romantic dinner or special date you're celebrating with others we'll look after you. We'll be sure to mark your special date with an unforgettable meal.",
+        "image": "special-events-desktop@2x.jpg"
       },
       {
         "title": "Social Events",
-        "description": "Are you looking to have a larger social event? No problem! We're quite more than happy to cater for big parties. We'll work with you to make your event a hit with everyone."
+        "description": "Are you looking to have a larger social event? No problem! We're quite more than happy to cater for big parties. We'll work with you to make your event a hit with everyone.",
+        "image": "social-events-desktop@2x.jpg"
       }
     ]
   },
   "reservations": {
     "title": "Ready to make a reservation?",
-    "btn": "BOOK A TABLE"
+    "btn": "BOOK A TABLE",
+    "bg_image": "ready-bg-desktop@2x.jpg"
   }
 }

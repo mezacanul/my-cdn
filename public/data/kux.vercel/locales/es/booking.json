@@ -2,6 +2,7 @@
   "title": "Reservaciones",
   "description": "Estamos listos para recibirte. Si tienes alguna solicitud especial, por favor no dudes en contactarnos al número de teléfono que te proporcionamos abajo. Estaremos encantados de atenderte.",
   "btn": "AGENDAR RESERVACIÓN",
+  "bg_image": "booking-bg-desktop@2x.jpg",
   "success": {
     "title": "¡Reservación agendada con éxito!",
     "description": "Nos pondremos en contacto contigo pronto para confirmar tu reservación."
