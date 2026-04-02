@@ -1,0 +1,113 @@
+{
+  "hero": {
+    "image": "moon-of-appalacia.jpg",
+    "subtitle": "LAST MONTH'S FEATURED STORY",
+    "title": "HAZY FULL MOON OF APPALACHIA",
+    "date": "March 2nd 2025",
+    "author": "by John Appleseed",
+    "description": "The dissected plateau area, while not actually made up of geological mountains, is popularly called \"mountains\", specially in eastern Kentucky and West Virginia, and the ridges are not high, the terrain is extremely rugged.",
+    "button": "READ THE STORY"
+  },
+  "common": {
+    "button": "READ STORY",
+    "authorPrefix": "by"
+  },
+  "items": [
+    {
+      "image": "mountains.jpg",
+      "date": "April 16th 2025",
+      "title": "The Mountains",
+      "author": "John Appleseed"
+    },
+    {
+      "image": "cityscapes.jpg",
+      "date": "April 14th 2025",
+      "title": "Sunset Cityscapes",
+      "author": "Benjamin Cruz"
+    },
+    {
+      "image": "18-days-voyage.jpg",
+      "date": "April 11th 2025",
+      "title": "18 Days Voyage",
+      "author": "Alexei Borodin"
+    },
+    {
+      "image": "architecturals.jpg",
+      "date": "April 9th 2025",
+      "title": "Architecturals",
+      "author": "Samantha Brooke"
+    },
+    {
+      "image": "world-tour.jpg",
+      "date": "April 7th 2025",
+      "title": "World Tour 2025",
+      "author": "Timothy Wagner"
+    },
+    {
+      "image": "unforeseen-corners.jpg",
+      "date": "April 3rd 2025",
+      "title": "Unforeseen Corners",
+      "author": "William Malcolm"
+    },
+    {
+      "image": "king-on-africa.jpg",
+      "date": "March 29th 2025",
+      "title": "King on Africa: Part II",
+      "author": "Tim Hillenburg"
+    },
+    {
+      "image": "trip-to-nowhere.jpg",
+      "date": "March 21st 2025",
+      "title": "The Trip to Nowhere",
+      "author": "Felicia Rourke"
+    },
+    {
+      "image": "rage-of-the-sea.jpg",
+      "date": "March 19th 2025",
+      "title": "Rage of the Sea",
+      "author": "Mohammed Abdul"
+    },
+    {
+      "image": "running-free.jpg",
+      "date": "March 16th 2025",
+      "title": "Running Free",
+      "author": "Michelle Ford"
+    },
+    {
+      "image": "behind-the-waves.jpg",
+      "date": "March 11th 2025",
+      "title": "Behind the Waves",
+      "author": "Lamarr Wilson"
+    },
+    {
+      "image": "calm-waters.jpg",
+      "date": "March 9th 2025",
+      "title": "Calm Waters",
+      "author": "Samantha Brooke"
+    },
+    {
+      "image": "milky-way.jpg",
+      "date": "March 5th 2025",
+      "title": "The Milky Way",
+      "author": "Alan Alvarez"
+    },
+    {
+      "image": "dark-forest.jpg",
+      "date": "March 4th 2025",
+      "title": "Night at the Dark Forest",
+      "author": "Larson James"
+    },
+    {
+      "image": "somwarpet.jpg",
+      "date": "March 1st 2025",
+      "title": "Somwarpet's Beauty",
+      "author": "Brian Greene"
+    },
+    {
+      "image": "land-of-dreams.jpg",
+      "date": "February 25th 2025",
+      "title": "Land of Dreams",
+      "author": "Annie Spratt"
+    }
+  ]
+}

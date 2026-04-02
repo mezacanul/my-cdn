@@ -1,0 +1,47 @@
+export default {
+    hero: {
+        image: "/images/features/desktop/hero.jpg",
+        title: "FEATURES",
+        description:
+            "We make sure all of our features are designed to be loved by every aspiring and even professional photographers who wanted to share their stories.",
+    },
+    imageFolder: "/images/features/desktop/",
+    items: [
+        {
+            image: "responsive.svg",
+            title: "100% RESPONSIVE",
+            description:
+                "No matter which the device you're on, our site is fully responsive and stories look terrific on any screen.",
+        },
+        {
+            image: "no-limit.svg",
+            title: "No Photo Upload Limit",
+            description:
+                "Our tool has no limits on uploads or bandwidth. Freely upload in bulk and share all of your stories in one go.",
+        },
+        {
+            image: "embed.svg",
+            title: "Available to Embed",
+            description:
+                "Embed Tweets, Facebook posts, Instagram media, Vimeo or YouTube videos, Google Maps, and more.",
+        },
+        {
+            image: "custom-domain.svg",
+            title: "Custom Domain",
+            description:
+                "With Photosnap subscriptions you can host your stories on your own domain. You can also remove our branding!",
+        },
+        {
+            image: "boost-exposure.svg",
+            title: "Boost Your Exposure",
+            description:
+                "Users that viewed your story or gallery can easily get notifed about new and featured stories with our built-in mailing list.",
+        },
+        {
+            image: "drag-drop.svg",
+            title: "Drag & Drop Image",
+            description:
+                "Easily drag and drop your images and get beautiful shots every time. No over the top tooling to add friction to creating stories.",
+        },
+    ],
+};
