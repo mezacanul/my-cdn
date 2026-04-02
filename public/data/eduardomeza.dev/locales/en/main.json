@@ -31,5 +31,21 @@
       },
       "error": "An error occurred while sending the message."
     }
+  },
+  "jsonLD": {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Eduardo Meza - Software Engineer",
+    "url": "https://eduardomeza.dev",
+    "publisher": {
+      "@type": "Person",
+      "name": "Eduardo Meza - Software Engineer",
+      "jobTitle": "Full Stack Software Engineer",
+      "url": "https://eduardomeza.dev",
+      "sameAs": [
+        "https://github.com/mezacanul",
+        "https://www.linkedin.com/in/eduardo-meza-7b6a02194/"
+      ]
+    }
   }
 }

@@ -138,21 +138,5 @@
     ],
     "publishedAt": "2026-03-01T10:00:00Z",
     "updatedAt": "2026-03-01T10:00:00Z"
-  },
-  "jsonLD": {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Eduardo Meza - Ingeniero de Software",
-    "url": "https://eduardomeza.dev",
-    "publisher": {
-      "@type": "Person",
-      "name": "Eduardo Meza - Ingeniero de Software",
-      "jobTitle": "Ingeniero de Software Full Stack",
-      "url": "https://eduardomeza.dev",
-      "sameAs": [
-        "https://github.com/mezacanul",
-        "https://www.linkedin.com/in/eduardo-meza-7b6a02194/"
-      ]
-    }
   }
 }
