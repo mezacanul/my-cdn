@@ -35,9 +35,9 @@
     "title": "Technical Skills",
     "suffix": "years",
     "items": [
-      { "title": "Next.js", "experience": 4 },
+      { "title": "Next.js", "experience": 3 },
       { "title": "TypeScript", "experience": 3 },
-      { "title": "React.js", "experience": 5 },
+      { "title": "React.js", "experience": 4 },
       { "title": "Tailwind CSS", "experience": 4 },
       { "title": "SSR/ISR", "experience": 2 },
       { "title": "CSR/SSG", "experience": 2 },
@@ -53,7 +53,7 @@
       { "title": "HTML", "experience": 6 },
       { "title": "CSS", "experience": 6 },
       { "title": "Javascript", "experience": 6 },
-      { "title": "Bootstrap", "experience": 4 }
+      { "title": "Bootstrap", "experience": 6 }
     ]
   },
   "projects": {
