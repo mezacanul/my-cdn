@@ -67,7 +67,7 @@
       {
         "id": "siapsez",
         "name": "SIAPSEZ Platform",
-        "skills": "Next.js - TypeScript - Tailwind CSS",
+        "skills": "React.js - TypeScript - Tailwind CSS",
         "img": "/projects/siapsez.jpg",
         "type": "about"
       },
@@ -80,8 +80,8 @@
       },
       {
         "id": "kux",
-        "name": "K'UX",
-        "skills": "React - TypeScript - Tailwind CSS - Redux",
+        "name": "Restaurante K'UX",
+        "skills": "Next.js - TypeScript - Tailwind CSS",
         "img": "/projects/kux.jpg",
         "type": "preview",
         "url": "https://kux-pi.vercel.app/",
@@ -90,20 +90,29 @@
       {
         "id": "photosnap",
         "name": "Photosnap",
-        "skills": "React - TypeScript - Tailwind CSS - Redux",
+        "skills": "Next.js - TypeScript - Tailwind CSS",
         "img": "/projects/photosnap.jpg",
         "type": "preview",
-        "url": "https://photosnap-nine.vercel.app/",
-        "code": "https://github.com/mezacanul/photosnap"
+        "url": "https://photosnap-app-three.vercel.app/",
+        "code": "https://github.com/mezacanul/photosnap-app/"
+      },
+      {
+        "id": "creative",
+        "name": "Creative Agency",
+        "skills": "Next.js - TypeScript - Tailwind CSS - i18n",
+        "img": "/projects/creative-agency.jpg",
+        "type": "preview",
+        "url": "https://creative-agency-ten-liard.vercel.app/",
+        "code": "https://github.com/mezacanul/creative-agency"
       },
       {
         "id": "sunnyside",
         "name": "Sunnyside",
-        "skills": "React - TypeScript - Tailwind CSS - Redux",
+        "skills": "Next.js - TypeScript - Tailwind CSS - i18n",
         "img": "/projects/sunnyside.jpg",
         "type": "preview",
-        "url": "https://sunnyside-five-hazel.vercel.app/",
-        "code": "https://github.com/mezacanul/sunnyside"
+        "url": "https://sunnyside-agency-liard.vercel.app/",
+        "code": "https://github.com/mezacanul/sunnyside-agency"
       },
       {
         "id": "sneakers-checkout",
@@ -113,15 +122,6 @@
         "type": "preview",
         "url": "https://sneakers-gamma-six.vercel.app/",
         "code": "https://github.com/mezacanul/sneakers"
-      },
-      {
-        "id": "creative",
-        "name": "Creative Agency",
-        "skills": "React - TypeScript - Tailwind CSS - Redux",
-        "img": "/projects/creative-agency.jpg",
-        "type": "preview",
-        "url": "https://creative-mu-flax.vercel.app/",
-        "code": "https://github.com/mezacanul/creative-agency"
       }
     ]
   },
