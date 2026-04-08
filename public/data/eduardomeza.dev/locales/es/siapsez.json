@@ -1,7 +1,7 @@
 {
   "gotoHome": "Ir a Inicio",
   "name": "Plataforma SIAPSEZ",
-  "skills": "Next.js - TypeScript - Tailwind CSS",
+  "skills": "React.js - TypeScript - Tailwind CSS",
   "img": "/projects/siapsez.jpg",
   "align": "right",
   "position": "Ingeniero Líder Frontend",
@@ -17,7 +17,7 @@
     },
     {
       "img": "/projects/siapsez-3.jpg",
-      "description": "Establecí y apliqué estándares técnicos de alto nivel para un equipo Front-End en un entorno TypeScript/Next.js, abarcando protocolos de documentación, guías de estilos y mejores prácticas que mejoran significativamente el rendimiento de la aplicación y su mantenibilidad a largo plazo."
+      "description": "Establecí y apliqué estándares técnicos de alto nivel para un equipo Front-End en un entorno TypeScript, abarcando protocolos de documentación, guías de estilos y mejores prácticas que mejoran significativamente el rendimiento de la aplicación y su mantenibilidad a largo plazo."
     },
     {
       "img": "/projects/siapsez-4.jpg",

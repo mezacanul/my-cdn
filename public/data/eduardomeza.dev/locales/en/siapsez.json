@@ -1,7 +1,7 @@
 {
   "gotoHome": "Go to Home",
   "name": "SIAPSEZ Platform",
-  "skills": "Next.js - TypeScript - Tailwind CSS",
+  "skills": "React.js - TypeScript - Tailwind CSS",
   "img": "/projects/siapsez.jpg",
   "align": "right",
   "position": "Frontend Lead Engineer",
@@ -17,7 +17,7 @@
     },
     {
       "img": "/projects/siapsez-3.jpg",
-      "description": "Established high-level technical standards for a Front-End team within a TypeScript/Next.js environment, encompassing documentation protocols, styling architectures, and best practices that significantly enhanced application performance and long-term maintainability."
+      "description": "Established high-level technical standards for a Front-End team within a TypeScript environment, encompassing documentation protocols, styling architectures, and best practices that significantly enhanced application performance and long-term maintainability."
     },
     {
       "img": "/projects/siapsez-4.jpg",
